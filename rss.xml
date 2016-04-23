@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[ChaosBand]]></title>
+        <description><![CDATA[ChaosBand]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Sat, 23 Apr 2016 18:58:44 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>Chaos is a new band put together from a selection of seasoned musicians to give audiences a great time and an eclectic mix of music.Featuring rock, funk, pop, indie, prog and more, you'll never know what's coming next ;)</p>]]></description>
+            <link>undefinedchaos-is-a-new-band-put-together-from-a-selection-of-seasone/index.html</link>
+            <guid isPermaLink="false">b8863b51-6e31-4ec6-881b-8da78f8dd08d</guid>
+            <pubDate>Sat, 23 Apr 2016 18:58:37 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
