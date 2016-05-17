@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[ChaosBand]]></title>
-        <description><![CDATA[ChaosBand]]></description>
+        <title><![CDATA[Chaos - eclectic Warwickshire-based covers band]]></title>
+        <description><![CDATA[Chaos - eclectic Warwickshire-based covers band]]></description>
         <link>https://thegrid.ai/chaosband/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 17 May 2016 13:41:36 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 17 May 2016 19:14:14 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/chaosband/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
@@ -12,6 +12,13 @@
             <link>https://thegrid.ai/chaosband/chaos-is-a-new-band-put-together-from-a-selection-of-seasone/index.html</link>
             <guid isPermaLink="false">b8863b51-6e31-4ec6-881b-8da78f8dd08d</guid>
             <pubDate>Tue, 17 May 2016 13:41:35 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/3f389ef5-2054-4d5c-95eb-f3a79ef8da86.jpg">]]></description>
+            <link>https://thegrid.ai/chaosband/meet-the-band-chaos-is-a-scalable-band-we-can-go-down-to-as/index.html</link>
+            <guid isPermaLink="false">6485ba9e-1bae-4909-aa31-738ae2f2868f</guid>
+            <pubDate>Tue, 17 May 2016 19:13:39 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Some little bits of Chaos...]]></title>
