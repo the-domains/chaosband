@@ -4,7 +4,7 @@
         <description><![CDATA[Chaos - eclectic Warwickshire-based covers band]]></description>
         <link>http://chaosband.co.uk/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 18 May 2016 11:34:15 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 18 May 2016 11:34:35 GMT</lastBuildDate>
         <atom:link href="http://chaosband.co.uk/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
@@ -33,13 +33,6 @@
             <link>https://www.youtube.com/watch?v=ZdmpoFiFwnM</link>
             <guid isPermaLink="false">edf960ba-cc15-4dba-9d20-30e60e38ccdf</guid>
             <pubDate>Wed, 18 May 2016 11:08:47 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/15957e2e-a05b-4917-9635-03f47d799ba9.jpg">]]></description>
-            <link>http://chaosband.co.uk/need-a-little-organised-chaos-in-your-life/index.html</link>
-            <guid isPermaLink="false">eba9273f-ab1f-49db-a6f2-6cd4f525f3fe</guid>
-            <pubDate>Wed, 18 May 2016 11:06:15 GMT</pubDate>
         </item>
     </channel>
 </rss>
