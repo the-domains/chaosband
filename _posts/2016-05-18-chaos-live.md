@@ -5,10 +5,10 @@ author:
     avatar: {}
 related: []
 publisher:
-  url: 'https://www.youtube.com/'
   name: YouTube
-  favicon: 'https://s.ytimg.com/yts/img/favicon-vflz7uhzw.ico'
   domain: www.youtube.com
+  url: 'https://www.youtube.com/'
+  favicon: 'https://s.ytimg.com/yts/img/favicon-vflz7uhzw.ico'
 keywords:
   - chaos
   - duration
@@ -61,13 +61,14 @@ app_links:
     type: ios
 isBasedOnUrl: 'https://www.youtube.com/watch?v=ZdmpoFiFwnM'
 title: 'Chaos Live!'
-datePublished: '2016-05-18T09:49:11.186Z'
-dateModified: '2016-05-18T09:47:56.292Z'
-starred: false
+datePublished: '2016-05-18T11:08:47.915Z'
+dateModified: '2016-05-18T11:08:31.178Z'
 sourcePath: _posts/2016-05-18-chaos-live.md
 inFeed: true
 hasPage: false
 inNav: false
+authors: []
+starred: false
 _type: VideoObject
 _context: 'http://schema.org'
 
