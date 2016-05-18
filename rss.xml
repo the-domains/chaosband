@@ -2,16 +2,23 @@
     <channel>
         <title><![CDATA[Chaos - eclectic Warwickshire-based covers band]]></title>
         <description><![CDATA[Chaos - eclectic Warwickshire-based covers band]]></description>
-        <link>https://thegrid.ai/chaosband/</link>
+        <link>http://chaosband.co.uk/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 18 May 2016 09:49:15 GMT</lastBuildDate>
-        <atom:link href="https://thegrid.ai/chaosband/rss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Wed, 18 May 2016 10:59:51 GMT</lastBuildDate>
+        <atom:link href="http://chaosband.co.uk/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<p>Chaos is a new band put together from a selection of seasoned musicians to give audiences a great time and an eclectic mix of music.Featuring rock, funk, pop, indie, prog and more, you'll never know what's coming next ;)</p>]]></description>
-            <link>https://thegrid.ai/chaosband/chaos-is-a-new-band-put-together-from-a-selection-of-seasone/index.html</link>
+            <link>http://chaosband.co.uk/chaos-is-a-new-band-put-together-from-a-selection-of-seasone/index.html</link>
             <guid isPermaLink="false">b8863b51-6e31-4ec6-881b-8da78f8dd08d</guid>
             <pubDate>Wed, 18 May 2016 08:24:48 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>Meet the band!Chaos is a scalable band; we can go down to as few as a keys & vocal duo or we can add extra vocals, guitar & brass...but the core Chaos causers are:</p>]]></description>
+            <link>http://chaosband.co.uk/meet-the-bandchaos-is-a-scalable-band-we-can-go-down-to-as/index.html</link>
+            <guid isPermaLink="false">ad3e3b2d-0a6f-487d-99f9-7e33d111db52</guid>
+            <pubDate>Wed, 18 May 2016 10:58:48 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Chaos Live!]]></title>
@@ -26,13 +33,6 @@
             <link>https://www.youtube.com/watch?v=OycZiTIkF0s</link>
             <guid isPermaLink="false">34e5a6a3-d8fc-48f5-9bf0-9b22217a40a7</guid>
             <pubDate>Wed, 18 May 2016 08:24:09 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<p>Meet the band!Chaos is a scalable band; we can go down to as few as a keys & vocal duo or we can add extra vocals, guitar & brass...but the core Chaos causers are:</p>]]></description>
-            <link>https://thegrid.ai/chaosband/meet-the-bandchaos-is-a-scalable-band-we-can-go-down-to-as/index.html</link>
-            <guid isPermaLink="false">ad3e3b2d-0a6f-487d-99f9-7e33d111db52</guid>
-            <pubDate>Tue, 17 May 2016 19:53:38 GMT</pubDate>
         </item>
     </channel>
 </rss>
