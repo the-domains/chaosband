@@ -6,8 +6,8 @@ isBasedOnUrl: 'https://www.youtube.com/watch?v=OycZiTIkF0s'
 inLanguage: null
 keywords: []
 description: 'Chaos We bring a little (organised) Chaos to parties and live events in Warwickshire, Oxfordshire and beyond. Contact Hello@Chaosband.co.uk for more info :o)'
-datePublished: '2016-05-18T08:24:09.722Z'
-dateModified: '2016-05-18T08:24:09.430Z'
+datePublished: '2016-05-18T11:31:37.313Z'
+dateModified: '2016-05-18T11:31:11.547Z'
 author:
   - name: Chaos Band
     url: 'https://www.youtube.com/channel/UCpLPjntFFDT81R7WBKFt8iA'
@@ -21,8 +21,8 @@ publisher:
   domain: www.youtube.com
   url: 'https://www.youtube.com/'
   favicon: 'https://www.youtube.com/favicon.ico'
-starred: false
 sourcePath: _posts/2016-05-18-some-little-bits-of-chaos.md
+starred: true
 _type: VideoObject
 _context: 'http://schema.org'
 
