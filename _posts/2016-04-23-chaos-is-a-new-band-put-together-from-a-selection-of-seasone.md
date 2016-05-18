@@ -5,8 +5,8 @@ inNav: false
 inLanguage: null
 keywords: []
 description: "Chaos is a new band put together from a selection of seasoned musicians to give audiences a great time and an eclectic mix of music. Featuring rock, funk, pop, indie, prog and more, you'll never know what's coming next ;)"
-datePublished: '2016-05-18T08:02:36.302Z'
-dateModified: '2016-05-18T08:02:21.949Z'
+datePublished: '2016-05-18T08:24:48.221Z'
+dateModified: '2016-05-18T08:24:44.125Z'
 title: ''
 author: []
 sourcePath: _posts/2016-04-23-chaos-is-a-new-band-put-together-from-a-selection-of-seasone.md
@@ -21,6 +21,8 @@ url: chaos-is-a-new-band-put-together-from-a-selection-of-seasone/index.html
 _type: Article
 
 ---
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/205d495e-fec1-4475-a7c0-8f7ac55f5085.jpg)
+
 Chaos is a new band put together from a selection of seasoned musicians to give audiences a great time and an eclectic mix of music.  
 Featuring rock, funk, pop, indie, prog and more, you'll never know what's coming next ;)
 
